@@ -1,0 +1,588 @@
+C:\Users\Sunny\OneDrive\Desktop\web\SearchEngine\app.py:60: DeprecationWarning: 
+        on_event is deprecated, use lifespan event handlers instead.
+
+        Read more about it in the
+        [FastAPI docs for Lifespan Events](https://fastapi.tiangolo.com/advanced/events/).
+        
+  @app.on_event("startup")
+INFO:     Started server process [18292]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:55267 - "GET /api/search?q=apple HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55275 - "GET /api/search?q=quantum+computing+breakthroughs+2026 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65474 - "GET /api/search?q=apple&type=images HTTP/1.1" 200 OK
+[1/500] YouTube
+[2/500] Contact Us
+[3/500] Copyright tools: Rightsholders and creators – how YouTube works
+[4/500] YouTube  |  Google for Developers
+[5/500] Official YouTube Blog for Latest YouTube News & Insights
+[6/500] About YouTube - YouTube
+[7/500] Create, Grow & Earn on YouTube | YouTube for Creators
+[8/500] Labs page for YouTube
+[9/500] https://www.youtube.com/ads/
+[10/500] Privacy Policy – Privacy & Terms – Google
+[11/500] YouTube policies crafted for openness – how YouTube works
+[12/500] How YouTube works: Giving everyone a voice
+[13/500] YouTube Jobs
+[14/500] YouTube Help
+[15/500] https://youtube.com/t/advertising_overview
+[16/500] Troubleshoot problems playing videos - YouTube Help
+[17/500] How creators use AI for content creation – how YouTube works
+[18/500] Google Help
+[19/500] Creator economy: Income through YouTube – how YouTube works
+[20/500] Reliable political news coverage on YouTube – how YouTube works
+[21/500] How Content ID works - YouTube Help
+[22/500] Age-appropriate media for children and teens – how YouTube works
+[23/500] Fostering learning experiences on YouTube – How YouTube Works
+[24/500] How YouTube works
+[25/500] Report a site security issue - YouTube Help
+[26/500] Privacy and safety center - YouTube Help
+[27/500] YouTube privacy settings to protect your data – how YouTube works
+[28/500] Algorithm-based recommendations on YouTube – how YouTube works
+[29/500] YouTube's Impact on the Creator Economy - How YouTube Works
+[30/500] YouTube India grievances & legal policies - YouTube Help
+[31/500] Submit a copyright counter notification - Computer - YouTube Help
+[32/500] Google Transparency Report
+[33/500] YouTube API Code Samples  |  Google for Developers
+[34/500] Dispute a copyright claim - Computer - YouTube Help
+[35/500] Copyright and rights management - YouTube Help
+[36/500] YouTube API Services Terms of Service  |  Google for Developers
+[37/500] Google for Developers | Build with Gemini
+[38/500] Learn about the Copyright Match Tool - YouTube Help
+[39/500] Developer products - Google for Developers
+[40/500] YouTube Player API Reference for iframe Embeds  |  YouTube IFrame Play
+[41/500] Embed YouTube Videos in iOS Applications with the YouTube Helper Libra
+[42/500] YouTube Embedded Players and Player Parameters  |  YouTube IFrame Play
+[43/500] YouTube Data API Overview  |  Google for Developers
+[44/500] API Reference  |  YouTube Data API  |  Google for Developers
+[45/500] YouTube Data API (v3) Code Samples  |  Google for Developers
+[46/500] YouTube Research - Home
+[47/500] Introduction  |  YouTube Analytics and Reporting APIs  |  Google for D
+[48/500] Code Samples  |  YouTube Analytics and Reporting APIs  |  Google for D
+[49/500] Configure a Button  |  YouTube Subscribe Button  |  Google for Develop
+[50/500] YouTube Live Streaming API Overview  |  Google for Developers
+[51/500] Google APIs Explorer  |  Google for Developers
+[52/500] YouTube Player Demo  |  YouTube IFrame Player API  |  Google for Devel
+[53/500] YouTube API Services - Developer Policies  |  Google for Developers
+[54/500] YouTube API Services - Required Minimum Functionality  |  Google for D
+[55/500] Google Issue Tracker
+[56/500] Sign in - Google Accounts
+[57/500] YouTube API Services - Branding Guidelines  |  Google for Developers
+[58/500] Firebase | Google's Mobile and Web App Development Platform
+[59/500] Google Developers Site Terms of Service  |  Google for Developers
+[60/500] Chrome for Developers
+[61/500] AI and Cloud Computing Services | Google Cloud
+[62/500] newsandevents - YouTube
+[63/500] https://www.youtube.com/feed/
+[64/500] Android Mobile App Developer Tools - Android Developers
+[65/500] https://www.youtube.com/search/?query=What+are+the+latest+AI+features+
+[66/500] YouTube CEO Neal Mohan’s 2026 Letter: The Future of YouTube
+          
+[67/500] Landy - YouTube
+[68/500] Executive News and Announcements | YouTube Blog
+[69/500] https://www.youtube.com/search/?query=What+specific+tools+does+YouTube
+[70/500] Gemini Developer API | Gemma open models  |  Google AI for Developers
+[71/500] https://www.youtube.com/search/?query=Neal+Mohan
+[72/500] Kids & Teens: Child Safety and Content Recommendations | YouTube Blog
+[73/500] Made On YouTube 2026 | Official YouTube Blog
+[74/500] FIFA World Cup 2026: Watch on YouTube | YouTube Blog
+[75/500] YouTube Partner Program: Eligibility and Features | YouTube Blog
+[76/500] Going Live on YouTube | YouTube Blog
+INFO:     127.0.0.1:51886 - "GET /api/suggest?q=yo HTTP/1.1" 200 OK
+[77/500] Learning and Education | YouTube Blog
+INFO:     127.0.0.1:51886 - "GET /api/suggest?q=youtuh HTTP/1.1" 200 OK
+[78/500] YouTube Studio: News, Info & Announcements | YouTube Blog
+INFO:     127.0.0.1:51886 - "GET /api/suggest?q=youtu HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51886 - "GET /api/suggest?q=youtub HTTP/1.1" 200 OK
+[79/500] Work Stories From the YouTube Team | YouTube Blog
+INFO:     127.0.0.1:51886 - "GET /api/suggest?q=youtube HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51886 - "GET /api/suggest?q=youtube.c HTTP/1.1" 200 OK
+[80/500] Made On YouTube 2026: All Announcements & New Features
+            
+  
+[81/500] The Latest YouTube News, Events, & Announcements - YouTube Blog
+INFO:     127.0.0.1:51886 - "GET /api/suggest?q=youtube HTTP/1.1" 200 OK
+[82/500] New YouTube Viewer Updates: Custom Feeds & Ask YouTube
+            
+  
+[83/500] YouTube on TV 2026: Shorts Series & Living Room Features
+            
+
+[84/500] YouTube Creator Tools 2026: Gemini AI & Studio Updates
+            
+  
+[85/500] YouTube Live Updates: Showdowns, Co-Host & Auto-Dubbing
+            
+ 
+[86/500] Get set to watch NFL games on YouTube TV - YouTube TV Help
+[87/500] Muddy Puddle Parenting - YouTube
+[88/500] Prepare your YouTube TV setup for NFL Kickoff weekend
+[89/500] YouTube TV: Latest News & Features | YouTube Blog
+[90/500] ESPN Unlimited is now available on YouTube TV
+INFO:     127.0.0.1:51886 - "GET /api/search?q=How%20YouTube%E2%80%99s%20Copyright%20Protection%20Tools%20work&type=web&page=1 HTTP/1.1" 200 OK
+[91/500] Thinking inside the box - YouTube
+[92/500] Dr. Garth talks healthy digital habits with Mummy & Daddy Pig from Pep
+[93/500] Bento box tutorials bring calm organization to back-to-school lunches
+[94/500] My “capsule meal prep” method for easy meals all week (no repeats!) - 
+[95/500] The Latest YouTube & Pop Culture Trends — YouTube Blog
+[96/500] Lunch Box 🍱 • 15 Fun & Easy ideas | Pack my Lunch Bento with me Collec
+[97/500] View stats, key plays & fantasy football - YouTube TV Help
+[98/500] YouTube Safety Update: New Parental Controls for Teens
+            
+  
+[99/500] https://www.youtube.com/search/?query=Youth&tags=Youth
+[100/500] Watch multiple events on one screen in multiview on YouTube TV - Compu
+[101/500] Dr. Becky and YouTube partner on digital parenting series
+            
+[102/500] https://www.youtube.com/search/?query=Social+Responsibility&tags=Socia
+[103/500] Creator and Artist Stories and Profiles — YouTube Blog
+[104/500] https://www.youtube.com/search/?query=Safety+&+Security=&tags=Safety+&
+[105/500] Dr. Ali Mattu shares how parents can manage screen time and find commu
+[106/500] https://www.youtube.com/search/?query=Health&tags=Health
+[107/500] How to help keep your kids and teens safer on YouTube
+            
+   
+[108/500] Fantasy Football View on YouTube TV - Android - YouTube TV Help
+[109/500] https://www.youtube.com/search/?query=Artists&tags=Artists
+[110/500] YouTube - YouTube
+[111/500] YouTube Premium: Latest News & Feature Announcements | YouTube Blog
+[112/500] YouTube Creators - YouTube
+[113/500] Creator Insider - YouTube
+[114/500] YouTube Viewers - YouTube
+[115/500] YouTube Insider - YouTube
+[116/500] Instagram
+[117/500] YouTube Culture & Trends - Data and Cultural Analysis for You
+[118/500] YouTube Community
+[119/500] More Choices for Kids and Teens from YouTube
+[120/500] YouTube TV - Watch & DVR Live Sports, Shows & News
+[121/500] Music Premium
+[122/500] YouTube for Artists - Where Music Grows
+[123/500] YouTube Originals - YouTube
+[124/500] YouTube Services Directory
+[125/500] YouTube Premium
+[126/500] Get Involved with the YouTube Community | YouTube for Creators
+[127/500] YouTube for Press
+[128/500] Virtual Reality - YouTube
+[129/500] The Exclusive Home of NFL Sunday Ticket - YouTube & YouTube TV
+[130/500] Video Campaigns with YouTube Ads -YouTube for Business
+INFO:     127.0.0.1:62542 - "GET / HTTP/1.1" 200 OK
+[131/500] Home
+INFO:     127.0.0.1:62542 - "GET /api/stats HTTP/1.1" 200 OK
+[132/500] YouTube
+[133/500] Start Your Podcast on YouTube | YouTube for Creators
+[134/500] How to Start & Manage Your YouTube Channel | YouTube for Creators
+[135/500] Video Content Creation Guide & Formats | YouTube for Creators
+[136/500] YouTube Create: Editing & Production Tools | YouTube for Creators
+[137/500] Create Shorts on YouTube | YouTube for Creators
+[138/500] Create Long-form Videos: Tips & Tools | YouTube for Creators
+[139/500] Create Live Streams on YouTube | YouTube for Creators
+[140/500] Plan, Create & Grow Your Channel | YouTube AI for Creators
+[141/500] Understand Your Audience on YouTube | YouTube for Creators
+[142/500] Grow Your Channel on YouTube | YouTube for Creators
+[143/500] Engage Your Community on YouTube | YouTube for Creators
+[144/500] Optimize & Evolve Your Content on YouTube | YouTube for Creators
+[145/500] Earn Money on YouTube: Monetization Guide | YouTube for Creators
+[146/500] YouTube Creator Awards & Recognition | YouTube for Creators
+[147/500] Join the YouTube Partner Program | YouTube for Creators
+[148/500] Earn Revenue with Ads & YouTube Premium | YouTube for Creators
+[149/500] Make Money Recommending Products You Love | YouTube Shopping
+[150/500] YouTube Creator Partnerships: Land Brand Deals | YouTube for Creators
+[151/500] Monetize Your Channel with Channel Memberships | YouTube for Creators
+[152/500] YouTube Create: Video editor - Apps on Google Play
+[153/500] Earn with Super Chat, Stickers & Gifts | YouTube for Creators
+[154/500] Helpful Resources | YouTube for Creators
+[155/500] Made On YouTube | Innovation for the YouTube Era
+INFO:     127.0.0.1:55540 - "POST /api/crawl HTTP/1.1" 409 Conflict
+[156/500] Grow - YouTube
+INFO:     127.0.0.1:55540 - "POST /api/crawl HTTP/1.1" 409 Conflict
+[157/500] SaverLife - YouTube
+[158/500] https://www.youtube.com/ads/how-it-works/set-up-a-campaign/youtube-sel
+[159/500] ‎YouTube Create: Video editor App - App Store
+INFO:     127.0.0.1:51971 - "GET /api/suggest?q=youth HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51971 - "GET /api/suggest?q=youtu HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59812 - "GET /api/suggest?q=youtube HTTP/1.1" 200 OK
+[160/500] Terms of Service
+[161/500] Jack MeOff - YouTube
+[162/500] Privacy Check-up
+[163/500] Google Account
+INFO:     127.0.0.1:51971 - "GET /api/search?q=youtube&type=web&page=1 HTTP/1.1" 200 OK
+[164/500] Security Check-Up
+[165/500] Browse in Incognito mode - Computer - Google Chrome Help
+[166/500] Privacy Help Centre - Policies Help
+[167/500] Welcome to My Activity
+[168/500] Learn about the Android Device Configuration Service - Android Help
+[169/500] Share usage & diagnostics information with Google - Google Account Hel
+[170/500] About me
+[171/500] Google Dashboard
+[172/500] https://www.youtube.com/feed/history/search_history?hl=en_GB
+[173/500] https://www.youtube.com/feed/history?hl=en_GB
+[174/500] Manage your Android device’s location settings - Google Account Help
+[175/500] Google Account
+[176/500] Ad Settings
+[177/500] Manage your Timeline data - Google Account Help
+[178/500] Google Account
+[179/500] Find & control your Web & App Activity - Computer - Google Search Help
+[180/500] Safe Browsing – Google Safe Browsing
+[181/500] Report content for legal reasons - Legal Help
+[182/500] Learn how shared endorsements work - Computer - Google Account Help
+[183/500] Payments Privacy Notice
+[184/500] Data security and privacy on devices that work with Assistant - Google
+[185/500] https://ssl.gstatic.com/seekh/intl/en/privacy
+[186/500] Google Workspace Terms of Service – Google Workspace
+[187/500] Who is my administrator? - Google Workspace Learning Center
+[188/500] YouTube Kids Privacy Notice - YouTube
+[189/500] Google Family Link - Children's Privacy Policy
+[190/500] Terms of Service - Google Fi Wireless
+[191/500] https://families.google.com/familylink/privacy/child-disclosure/?hl=en
+[192/500] Google Assistant, your own personal Google
+[193/500] Delete photos and videos - Computer - Google Photos Help
+[194/500] Google Cloud Privacy Notice
+[195/500] Affiliates providing business services
+[196/500] Delete a document, spreadsheet, presentation or video - Computer - Goo
+[197/500] Fighting child sexual abuse online
+[198/500] Delete your activity - Computer - Google Account Help
+[199/500] Gemini Apps Privacy Hub - Gemini Apps Help
+[200/500] Learn about Google Play services - Android Help
+[201/500] Control your ad experience - My Ad Centre Help
+INFO:     127.0.0.1:51410 - "GET /api/search?q=apple HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51411 - "GET /api/search?q=quantum+computing+breakthroughs+2026 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51412 - "GET /api/search?q=apple&type=images HTTP/1.1" 200 OK
+[202/500] Google Photos Help
+[203/500] Safeguarding your data - Analytics Help
+[204/500] About Lumen - Legal Help
+[205/500] Update your account to meet age requirements - Google Account Help
+[206/500] Customise your ads experience - My Ad Centre Help
+[207/500] Change the phone number on your account & how it's used - Computer - G
+[208/500] Last account activity - Gmail Help
+[209/500] Manage Personalized Recommendations in Search services - Google Search
+[210/500] Restricted targeting in personalised advertising - Advertising Policie
+[211/500] About Google: Our products, technology and company information - About
+[212/500] Transparency Centre - Google Product Policies and Policy Areas
+[213/500] Trends Help
+[214/500] Back up or import your blog - Blogger Help
+[215/500] Delete files in Google Drive - Computer - Google Drive Help
+[216/500] How to rate and review apps, games and books in the Google Play Store 
+INFO:     127.0.0.1:64068 - "POST /api/click HTTP/1.1" 200 OK
+[217/500] Sign in to Chrome - Computer - Google Chrome Help
+[218/500] Change who's saved & suggested as contacts - Computer - Google Account
+INFO:     127.0.0.1:64068 - "GET /api/search?q=youtube&type=images&page=1 HTTP/1.1" 200 OK
+[219/500] Appeal a Community Guidelines strike or video removal - Computer - You
+[220/500] Explore what you can do with Google smart speakers and displays - Goog
+[221/500] YouTube's Community Guidelines - YouTube Help
+[222/500] Advertiser-friendly content guidelines - YouTube Help
+[223/500] Expanding likeness detection to civic leaders and journalists
+        
+[224/500] How YouTube evaluates Educational, Documentary, Scientific & Artistic 
+[225/500] New tools to protect creators and artists 
+            
+          
+   
+[226/500] YouTube Partner Program overview & eligibility - Computer - YouTube He
+[227/500] GIFCT | Global Internet Forum to Counter Terrorism
+[228/500] How we're helping creators disclose altered or synthetic content
+     
+[229/500] New tools for teachers and students to improve the learning experience
+[230/500] Improving AI labels for viewers and creators
+            
+          
+ 
+[231/500] YouTube channel monetization policies - YouTube Help
+[232/500] Set your channel guidelines - YouTube Help
+[233/500] $20 million to support teens' digital wellbeing worldwide
+            
+INFO:     127.0.0.1:64795 - "GET /api/suggest?q=how HTTP/1.1" 200 OK
+[234/500] 20 ways we’re celebrating two decades of YouTube
+            
+        
+[235/500] YouTube Jobs - Engineering
+[236/500] Why the next generation of reporters is moving from TV to YouTube
+    
+[237/500] Manage your posts & comments - YouTube Help
+[238/500] Helping kids and teens learn and grow online on Safer Internet Day
+[239/500] YouTube Jobs - Product and Design
+[240/500] https://www.youtube.com/ads/youtube-select/
+[241/500] YouTube Jobs - Business and Operations
+INFO:     127.0.0.1:64795 - "GET /api/search?q=How%20hyperlinks%20work%20in%20HTML&type=images&page=1 HTTP/1.1" 200 OK
+[242/500] YouTube Jobs - Trust and Safety
+INFO:     127.0.0.1:64795 - "GET /api/search?q=How%20hyperlinks%20work%20in%20HTML&type=web&page=1 HTTP/1.1" 200 OK
+[243/500] Get Creator Tips - YouTube Help
+[244/500] Troubleshoot account issues - YouTube Help
+INFO:     127.0.0.1:53158 - "GET /api/search?q=How%20hyperlinks%20work%20in%20HTML&type=web&page=2 HTTP/1.1" 200 OK
+[245/500] Get help with the YouTube Partner Program - YouTube Help
+INFO:     127.0.0.1:53158 - "GET /api/search?q=How%20hyperlinks%20work%20in%20HTML&type=web&page=3 HTTP/1.1" 200 OK
+[246/500] Find videos to watch - YouTube Help
+[247/500] Comment, subscribe, & connect with creators - YouTube Help
+[248/500] Save or share videos & playlists - YouTube Help
+[249/500] Purchase & manage movies, TV shows & products on YouTube - YouTube Hel
+[250/500] Sign up and manage your account - YouTube Help
+[251/500] YouTube Premium benefits - YouTube Help
+[252/500] Join YouTube Premium - YouTube Help
+[253/500] Manage Premium billing & payments - YouTube Help
+[254/500] Fix YouTube Premium issues - YouTube Help
+[255/500] Create Shorts - YouTube Help
+[256/500] Data and performance measurement tools on YouTube - YouTube Help
+[257/500] Analyze performance with analytics - YouTube Help
+[258/500] YouTube Creator Community overview - YouTube Help
+[259/500] Understand ads and related policies - YouTube Help
+[260/500] Get started with Player for Education - YouTube Help
+[261/500] Video Clips & Shorts in YouTube Studio - YouTube Help
+[262/500] YouTube Contributors
+[263/500] YouTube for Content Managers - YouTube Help
+[264/500] YouTube policies - YouTube Help
+INFO:     127.0.0.1:54707 - "GET /api/search?q=instagram&type=web&page=1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54707 - "GET /api/suggest?q=instagram HTTP/1.1" 200 OK
+[265/500] Fix a problem - YouTube Help
+INFO:     127.0.0.1:54707 - "GET /api/search?q=instagram&type=images&page=1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54707 - "GET /api/search?q=instagram&type=web&page=1 HTTP/1.1" 200 OK
+[266/500] Supervised experiences on YouTube - YouTube Help
+[267/500] AI for content creation – how YouTube works
+[268/500] Jade Beason - YouTube
+[269/500] AI Elections Accord - Munich Security Conference
+[270/500] C2PA | Verifying Media Content Sources
+[271/500] Our approach to responsible AI innovation 
+            
+          
+   
+[272/500] AI & Creators: The Future of Tech and Creativity 
+            
+       
+[273/500] Our principles for partnering with the music industry on AI technology
+[274/500] Partnering with Creative Artists Agency on responsible AI tools for ta
+[275/500] How Content ID works - YouTube Help
+[276/500] Protecting your identity - YouTube Help
+[277/500] Google Chrome Help
+[278/500] Google Account Help
+[279/500] Gmail Help
+[280/500] Google Play Help
+[281/500] Google Search Help
+[282/500] Gemini Apps Help
+[283/500] Google AdSense Help
+[284/500] Google Maps Help
+[285/500] Pixel Phone Help
+[286/500] Find support for: - Google Cloud Help
+[287/500] Google Ads Help
+[288/500] Google Photos Help
+[289/500] Google For Families Help
+[290/500] Google Fi Wireless Help
+[291/500] Find support for: - Google Home and Nest Help
+[292/500] Google Pay Help
+[293/500] Google Store Help
+[294/500] Google Drive Help
+[295/500] Google Accessibility Help
+[296/500] Blogger Help
+[297/500] Follow & compare securities - Computer - Google Search Help
+[298/500] Choose a device below to get started in the Help Center - Streaming He
+[299/500] Google Pixel Buds Help
+[300/500] Google Earth Help
+[301/500] Google Calendar Help
+[302/500] Google Docs Editors Help
+[303/500] Google Groups Help
+[304/500] How to use classic Google Books - Google Search Help
+[305/500] Android XR Help
+[306/500] Workspace Studio Help
+[307/500] Android Help
+[308/500] Sites Help
+[309/500] Google Cardboard Help
+[310/500] Google News Help
+[311/500] Google Voice Help
+[312/500] Google Translate Help
+[313/500] YouTube For Families Help
+[314/500] Google Shopping Help
+[315/500] Chromebook Help
+[316/500] Nik Collection – Help center
+[317/500] Ads Help
+[318/500] Google One Help
+[319/500] Google Pixel Tablet Help
+[320/500] Google Cast Help
+[321/500] Business Home Help
+[322/500] Google Fit Help
+[323/500] YouTube TV Help
+[324/500] Phone app Help
+[325/500] Pixelbook Help
+[326/500] Reserve with Google Help
+[327/500] Files by Google Help
+[328/500] Google Assistant Help
+[329/500] Google Messages
+[330/500] Google Tasks Help
+[331/500] User Security Help
+[332/500] Opinion Rewards Help
+[333/500] Android Auto Help
+[334/500] Google Chat Help
+[335/500] Android TV Help
+[336/500] Google Wallet Help
+[337/500] YouTube Music Help
+[338/500] Google Food Ordering Help
+[339/500] YouTube Studio App Help Center
+[340/500] Google Pixel Watch Help
+[341/500] Fitbit Ace LTE Help
+[342/500] Chrome Web Store Help
+[343/500] Choose an experience below to get started in the Help Center - Google 
+[344/500] How Google Play Services for AR handles your data - AR Help
+[345/500] Waze Help
+[346/500] Contacts Help
+[347/500] Snapseed Help
+[348/500] Google Health Help Center
+[349/500] My Maps Help
+[350/500] Google Workspace Individual Help
+[351/500] Google Kids Space
+[352/500] Wear OS by Google Help
+[353/500] Travel Help
+[354/500] Google Fiber Help
+[355/500] Google Keep Help
+[356/500] Pixel Camera Help
+[357/500] Photomath Help
+[358/500] Gboard Help
+[359/500] Google Ads Editor Help
+[360/500] Google Workspace Help
+[361/500] Cardboard Manufacturer Help
+[362/500] Orion Wi-Fi Help
+[363/500] Google Play Books Partner Center Help
+[364/500] Search Console Help
+[365/500] Programmable Search Engine Help
+[366/500] Publisher Center Help
+[367/500] Google Arts & Culture Platform Help
+[368/500] Google for Nonprofits Help
+[369/500] Google Workspace Learning Center
+[370/500] Hotel Center Help
+[371/500] Studio Help
+[372/500] Home  |  Device Tokenization Developer Site  |  Google for Developers
+[373/500] Authorized Buyers Help
+[374/500] Maps Content Partners Help
+[375/500] Google Cloud Platform Console Help
+[376/500] Google Merchant Center Help
+[377/500] Google Ad Manager Help
+[378/500] Google payments center help
+[379/500] Google Vault  |  Google Workspace Help
+[380/500] AppSheet Help
+[381/500] Search Ads 360 Help
+[382/500] Transit Partners Help
+[383/500] Analytics Help
+[384/500] Google Wallet  |  Google for Developers
+[385/500] Find Global Business Opportunities - Market Finder by Google
+[386/500] Google Meet Help
+INFO:     127.0.0.1:49671 - "POST /api/crawl HTTP/1.1" 422 Unprocessable Content
+[387/500] Ads Data Hub Help
+[388/500] Google AdMob Help
+[389/500] Chrome Enterprise and Education Help
+[390/500] Local Services Help
+[391/500] Elastifile Help
+[392/500] Get help with Google Marketing Platform - Google Marketing Platform He
+[393/500] Cameyo Help
+[394/500] Cloud Search  |  Google Workspace Help
+[395/500] Google Pay for Online Business Help
+[396/500] Work Insights Help
+[397/500] Android Enterprise Help
+[398/500] Google Business Profile Help
+[399/500] Brand profile Help
+[400/500] Gemini Enterprise – Business Edition Help
+[401/500] Campaign Manager 360 Help
+[402/500] Comparison Shopping Services Help
+[403/500] Google's products and services  - About Google
+[404/500] Redirecting...
+[405/500] Display & Video 360 Help
+[406/500] Cast Developer Help
+[407/500] https://productexperts.withgoogle.com/
+[408/500] The future of content spend and business models in Media
+[409/500] Play Console Help
+[410/500] Think School - YouTube
+[411/500] Dhar Mann Studios - YouTube
+[412/500] Google Web Designer Help
+[413/500] Mel Robbins - YouTube
+[414/500] reCAPTCHA Help
+[415/500] Brandon B - YouTube
+[416/500] Sidemen - YouTube
+[417/500] METRO TV  - YouTube
+[418/500] Aquarius Musikindo - YouTube
+[419/500] Request access to Google Pay payment processor documentation - Google 
+[420/500] YouTube Partner Program, Explained
+            
+          
+           
+[421/500] DiaTV - YouTube
+[422/500] Flow Podcast - YouTube
+[423/500] Creative ways creators are using YouTube Shopping to earn 
+           
+[424/500] InPower Podcast - YouTube
+[425/500] Beyond the Frame: How viewers define content quality
+            
+    
+[426/500] Powering the Future: YouTube's New AI & Creator Tools 
+            
+  
+[427/500] YouTube Creator Case Studies - YouTube
+[428/500] Election information panels - YouTube Help
+[429/500] Security
+[430/500] Elections misinformation policies - YouTube Help
+[431/500] Gaspard G - YouTube
+[432/500] Impersonation policy - YouTube Help
+[433/500] The lead up to the 2024 U.S. Election
+            
+          
+        
+[434/500] The 2024 European Parliamentary elections on YouTube
+            
+    
+[435/500] How YouTube is supporting the 2024 European Parliamentary elections
+  
+[436/500] Supporting the 2024 United States election
+            
+          
+   
+[437/500] Misinformation policies - YouTube Help
+[438/500] Disclosing use of GenAI content - Computer - YouTube Help
+[439/500] Google Ads policies - Advertising Policies Help
+[440/500] https://youtube.com/youtube/community?hl=en-GB&help_center_link=CLreqg
+[441/500] YouTube Content ID - YouTube
+[442/500] Youth principles: Our Internet safety rules – how YouTube works
+[443/500] What is a supervised kid account on YouTube? - YouTube Help
+[444/500] Age requirements on Google Accounts - Google Account Help
+[445/500] Age-restricted content - YouTube Help
+[446/500] Youth safety by our Youth and Family Advisors – How YouTube works
+[447/500] Supervised teen account - YouTube Help
+[448/500] Safer Internet Day: Empowering teens and parents with tools to support
+[449/500] YouTube and industry leaders announce the Youth Digital Wellbeing Pact
+[450/500] Tips & resources for parents of teens on YouTube - YouTube Help
+[451/500] A collaborative approach to teen supervision on YouTube
+            
+ 
+[452/500] Eddie Woo - YouTube
+[453/500] Amoeba Sisters - YouTube
+[454/500] Kok Bisa? - YouTube
+[455/500] Your Ultimate Guide to Learning to Code on YouTube 
+            
+     
+[456/500] Best practices for kids & family content - YouTube Help
+[457/500] MC Grammar – Educational Rap Songs - YouTube
+[458/500] 3 ways YouTube Player for Education is making Edtech better for learne
+[459/500] Best practices for teen content - YouTube Help
+[460/500] A new path to higher education that begins on YouTube!
+            
+  
+[461/500] Professor Noslen - YouTube
+[462/500] Celebrating World Teachers’ Day: Honoring the impact of teachers, with
+[463/500] Neha Agrawal Mathematically Inclined - YouTube
+[464/500] The new town hall: Washington embraces New Media
+            
+        
+INFO:     127.0.0.1:53841 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53841 - "GET /api/stats HTTP/1.1" 200 OK
+[465/500] Investing in a multi-format news watching experience
+            
+    
+[466/500] Tara Palmeri on why journalism’s future is independent
+            
+  
+[467/500] Protecting your identity - YouTube Help
+INFO:     127.0.0.1:53841 - "GET /api/suggest?q=you HTTP/1.1" 200 OK
+[468/500] Turn Restricted Mode on or off on YouTube - Computer - YouTube Help
+INFO:     127.0.0.1:53841 - "GET /api/suggest?q=youyu HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53841 - "GET /api/suggest?q=youyur HTTP/1.1" 200 OK
+[469/500] Change video privacy settings - Computer - YouTube Help
+INFO:     127.0.0.1:53841 - "GET /api/suggest?q=youyu HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53841 - "GET /api/suggest?q=youyub HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53841 - "GET /api/suggest?q=you HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53841 - "GET /api/suggest?q=yout HTTP/1.1" 200 OK
+[470/500] How to download your Google data - Google Account Help
+INFO:     127.0.0.1:53841 - "GET /api/search?q=youtube&type=web&page=1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54464 - "GET /api/suggest?q=youtube HTTP/1.1" 200 OK
